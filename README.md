@@ -1,10 +1,10 @@
 # Mobile-Sales-Dashboard
 
-Short description of project :
+# Short description of project :
 This project mobile sales behaviour using data from real purchases. I cleaned and prepared the data in power query, analyzed it and created an interactive dashboard in Power BI.
 The report shows year and month wise sales, MTD report, Same period last year report. These insights help support better and smarter business decisions.
 
-Tech Stack :
+# Tech Stack :
 Power Query : Used power query to load, clean, and prepare the data. fixed date format, merged columns, replace values and created custom calender using list date formula to create relation between two tables
 
 Data Modelling : created one to many relation between sales table and custom calender. this help to create proper visual other wise you'll able to see equal values 
